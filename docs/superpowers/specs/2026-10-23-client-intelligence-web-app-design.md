@@ -1,7 +1,7 @@
 # Client Intelligence web app: design
 
 Date: 2026-10-23
-Status: awaiting owner approval
+Status: approved by owner 2026-10-23
 Source skill: [Nidhicollab/client-intelligence](https://github.com/Nidhicollab/client-intelligence) (`plugins/client-industry-intel`), v1 and v2
 
 ## 1. Intent
